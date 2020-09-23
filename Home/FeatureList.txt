@@ -1,14 +1,14 @@
 {
 "FeatureList": [
         {
-            "featureName": "Quiz",
+            "featureName": "Signals",
             "featureIcon": "https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/QuizIcon.png",
             "featureVisibility": "yes",
             "updatedVersion":"8",
             "showUpdateFlag" : "14062020_10"
         },
         {
-            "featureName": "Hadees",
+            "featureName": "Mock Test",
             "featureIcon": "https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/HadeesIcon.png",
             "featureVisibility": "yes",
             "updatedVersion":"8",
