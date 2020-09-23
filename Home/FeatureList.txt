@@ -2,14 +2,14 @@
 "FeatureList": [
         {
             "featureName": "Signals",
-            "featureIcon": "https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/QuizIcon.png",
+            "featureIcon": "https://raw.githubusercontent.com/danish-p/TRMotors/master/Home/signalIcon.jpg",
             "featureVisibility": "yes",
             "updatedVersion":"8",
             "showUpdateFlag" : "14062020_10"
         },
         {
             "featureName": "Mock Test",
-            "featureIcon": "https://raw.githubusercontent.com/danish-p/IslamicQuiz/master/Hadees/HadeesIcon.png",
+            "featureIcon": "https://raw.githubusercontent.com/danish-p/TRMotors/master/Home/mocktestIcon.jpg",
             "featureVisibility": "yes",
             "updatedVersion":"8",
             "showUpdateFlag" : "14062020_48"
