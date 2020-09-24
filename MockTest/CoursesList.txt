@@ -1,0 +1,54 @@
+{
+    "CoursesList": [
+        {
+            "courseName": "Course 10",
+            "title": "Seerat-E-Rasool Se Mutalliq online Test PART 1",
+            "link": "course10.txt"
+        },
+        {
+            "courseName": "Course 9",
+            "title": "Dua Se Mutalliq Online Test",
+            "link": "course9.txt"
+        },
+        {
+            "courseName": "Course 8",
+            "title": "Aqeedah Se Mutalliq Online Test",
+            "link": "course8.txt"
+        },
+        {
+            "courseName": "Course 7",
+            "title": "Sabse Afzal Aamal Se Mutalliq Online Test PART 2",
+            "link": "course7.txt"
+        },
+        {
+            "courseName": "Course 6",
+            "title": "Sabse Afzal Aamal Se Mutalliq Online Test PART 1",
+            "link": "course6.txt"
+        },
+        {
+            "courseName": "Course 5",
+            "title": "Farz Namazo Ke Baad Azkaar Se Mutalliq Test",
+            "link": "course5.txt"
+        },
+        {
+            "courseName": "Course 4",
+            "title": "Sone Ke Aadab Aur Sone Se Pehle Ke Azkaar Se Mutalliq Test",
+            "link": "course4.txt"
+        },
+        {
+            "courseName": "Course 3",
+            "title": "Wuzu Ka Masnoon Tareeqa Se Mutalliq Test",
+            "link": "course3.txt"
+        },
+        {
+            "courseName": "Course 2",
+            "title": "Nafil Namazon Se Mutalliq online Test",
+            "link": "course2.txt"
+        },
+        {
+            "courseName": "Course 1",
+            "title": "Hisnul Muslim (Zikr-O-Azkaar) Se Mutalliq Online Test",
+            "link": "course1.txt"
+        }
+    ]
+}
