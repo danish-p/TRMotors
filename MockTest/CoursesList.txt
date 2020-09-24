@@ -8,8 +8,8 @@
         },
         {
             "courseName": "Course 2",
-            "titleEnglish": "रहदारी नियमांबद्दल",
-            "titleMarathi": "",
+            "titleEnglish": "Traffic Rules",
+            "titleMarathi": "रहदारी नियमांबद्दल",
             "link": "course2.txt"
         }
     ]
