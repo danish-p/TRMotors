@@ -1,0 +1,94 @@
+{
+    "Course 1": [
+        {
+            "question": "Neend se bedaar honay ki Dua Kya Hai..??*",
+            "optionA": "Alhamdu lillaahil ladhee ahyaanaa ba'da maa amaa-tanaa wa ilayhin nushoor",
+            "optionB": "Alhamdu lillaahil ladhee ‘aafanee fee jasadee wa radda ‘alaiyya roohee wa adhina lee bidhikrih",
+            "optionC": "A&B Do bhi sahi",
+            "optionD": "null",
+            "answer": "optionA",
+            "feedback": "A Option Daleel : Sahih Bukhari (6314), Sahih Muslim (2711), Abu Dawud (5049), Ibn Majah (3880), Lafz in ke hain. Tirmidhi (3417)\r\n\r\nB Option Daleel : Hasan. Tirmidhi (3401). Albani ne ise Hasan kaha hai: “Sahih al Jami’ (716), aur “Takhreej al Kalim at Tayyib” (34); aur isi tarah Ibn Hajar ne bhi ise Hasan kaha hai: “Nataij al ifkar” (1:113). Tafseel ke liye dekhiye: “Anwar un Nasiha” (Taa 3401)"
+        },
+        {
+            "question": "Baitul khala mein daakhil hone ki dua Kya hai..??*",
+            "optionA": "Sirf Bismillaah",
+            "optionB": "Bismillaahi Allahumma inni a’oodhu bika minal khubuthi wal khaba'ith",
+            "optionC": "null",
+            "optionD": "null",
+            "answer": "optionB",
+            "feedback": "Sahih Muslim (234), Abu Dawud (169), Tirmidhi (55), Nasai (148), Ibn Majah (470"
+        },
+        {
+            "question": "Ghar se nikaltay waqt ki Dua Kya Hai..??*",
+            "optionA": "Bismillaahi walajnaa, wa bismillaahi kharajnaa, wa 'alaa rabbinaa tawakkalnaa",
+            "optionB": "Bismillaahi, tawakkaltu 'alallaahi, laa hawla wa laa quwwata illaa billaah",
+            "optionC": "null",
+            "optionD": "null",
+            "answer": "optionB",
+            "feedback": "Sahih. Abu Dawud (5095), Tirmidhi (3426), Al Mukhtaara by Ziya (1540, Ibn Jurayj ne sama’ ki sarahat kar di hai); Albani ne ise Sahih kaha hai: “Takhreej al Kalimat Tayyib” (59). Asl kitaab mein “ ”, se pehlay “ ” hai lekin hadees mein yeh mojood nahi hai."
+        },
+        {
+            "question": "Muazzin ke shahaadatayn kehnay ke baad Hum Kya Dua Padhna Hai..??*",
+            "optionA": "Laa hawla wa laa quwwata illaa billaah",
+            "optionB": "Wa anaa ash-hadu an laa ilaaha illallaahu wahdahu laa shareeka lahu wa ash-hadu anna Muhammadan abduhu wa Rasooluhu, radheetu billaahi Rabban, wa bi-Muhammadin Rasoolan wa bil islaami deenan",
+            "optionC": "null",
+            "optionD": "null",
+            "answer": "optionB",
+            "feedback": "Sahih Muslim (386), Abu Dawud (525, lafz is ke hain), Ibn Majah (721), Nasai (679). Mazkoorah kalmaat ki jagah mukhtasran sirf, “, ” (wa anaa, wa anaa) kehna bhi saabit hai; Dekhen Abu Dawud (526), Albani ne ise Sahih kaha hai: “Sahih Abu Dawud” (538)"
+        },
+        {
+            "question": "Allaahumma Rabba haadhihid-da'watit taammati wassalaatil qaa-imati, aati Muhammada nil waseelata wal fadheelata, wab 'ath hu maqaamam mahmooda nil ladhee wa 'adtahu : Ye dua kab Padhna hai. ?? *",
+            "optionA": "Ghar Se Nikalte Waqt",
+            "optionB": "Ghar se wapas aate waqt",
+            "optionC": "Masjid mein Dakhil Hota waqt",
+            "optionD": "Muazzin ki Azan ki Baad",
+            "answer": "optionD",
+            "feedback": "Sahih Bukhari (614), Abu Dawud (529), Tirmidhi (211), Ibn Majah (722), Alfaz in sab ke hain. Nasai (680)"
+        },
+        {
+            "question": "Kya Ye Sahih Hadis Se Sabit hai Azaan aur iqamat ke darmiyan apne liye dua karen toh uski dua radd nahi hoti*",
+            "optionA": "Sabit nahi",
+            "optionB": "Sabit hai",
+            "optionC": "null",
+            "optionD": "null",
+            "answer": "optionB",
+            "feedback": "Sahih. Abu Dawud (521), Tirmidhi (212), Albani ne ise Sahih kaha hai: “Sahih Abu Dawud”"
+        },
+        {
+            "question": "Baitul khala se nikalney ki dua Kya hai..??*",
+            "optionA": "Alhamdulillah",
+            "optionB": "Allahu akbar",
+            "optionC": "Ghufraanaka",
+            "optionD": "A&B",
+            "answer": "optionC",
+            "feedback": "Sahih. Abu Dawud (30), Tirmidhi (7), Ibn Majah (300). Albani ne ise Sahih kaha hai: “Sahih Abu Dawud” (1:59, no. 23)"
+        },
+        {
+            "question": "Kya Wazu se pehlay ki dua Bismillaah Padhna Chahiye ya Koyi Dusa Dua bhi hai..??*",
+            "optionA": "Bismillah ke sath Dusra dua bhi Padhna Chahiye.",
+            "optionB": "Sirf Bismillaah Padhna Chahiye",
+            "optionC": "null",
+            "optionD": "null",
+            "answer": "optionB",
+            "feedback": "Sahih. Abu Dawud (101), Ibn Majah (397), Nasai (78). Albani ne ise Sahih kaha hai: “Sahih Abu Dawud” (1:168, no. 90); Aur dekhen: Sahih Ibn Khuzayma (144); Albani ne ise is par Taaleeq mein Sahih kaha hai."
+        },
+        {
+            "question": "Ghar mein daakhil hone Ki Dua..??*",
+            "optionA": "Bismillaahi Tawakaltu illalahi",
+            "optionB": "Sirf Bismillaah",
+            "optionC": "null",
+            "optionD": "null",
+            "answer": "optionB",
+            "feedback": "Jabir b. 'Abdullah reported Allah's Messenger (ﷺ) as saying:\r\nWhen a person enters his house and mentions the name of Allah at the time of entering it and while eating the food, Satan says (addressing himself: You have no place to spend the night and no evening meal; but when he enters without mentioning the name of Allah, the Satan says: You have found a place to spend the night, and when he does not mention the name of Allah while eating food, he (the Satan) says: You have found a place to spend the night and evening meal.\r\nSahih Muslim 2018"
+        },
+        {
+            "question": "Libaas utaartay waqt kya Dua Padhna Chahiye...??",
+            "optionA": "Alhamdulillah",
+            "optionB": "Bismillah",
+            "optionC": "null",
+            "optionD": "null",
+            "answer": "optionB",
+            "feedback": "Tirmidhi (606). Albani ne ise Hasan kaha hai: “Irwaa” (50). Tafseel ke liye dehiye: “Anwar un Nasiha” (Taa 606)"
+        }
+    ]
+}
