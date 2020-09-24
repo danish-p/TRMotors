@@ -13,6 +13,20 @@
             "featureVisibility": "yes",
             "updatedVersion":"8",
             "showUpdateFlag" : "14062020_48"
+        },
+        {
+            "featureName": "TR Services",
+            "featureIcon": "https://raw.githubusercontent.com/danish-p/TRMotors/master/Home/mocktestIcon.jpg",
+            "featureVisibility": "yes",
+            "updatedVersion":"8",
+            "showUpdateFlag" : "14062020_48"
+        },
+        {
+            "featureName": "Contact Us",
+            "featureIcon": "https://raw.githubusercontent.com/danish-p/TRMotors/master/Home/mocktestIcon.jpg",
+            "featureVisibility": "yes",
+            "updatedVersion":"8",
+            "showUpdateFlag" : "14062020_48"
         }
     ]
 }
