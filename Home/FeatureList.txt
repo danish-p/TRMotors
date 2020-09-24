@@ -16,14 +16,14 @@
         },
         {
             "featureName": "TR Services",
-            "featureIcon": "https://raw.githubusercontent.com/danish-p/TRMotors/master/Home/mocktestIcon.jpg",
+            "featureIcon": "https://raw.githubusercontent.com/danish-p/TRMotors/master/Home/servicesIcon.jpg",
             "featureVisibility": "yes",
             "updatedVersion":"8",
             "showUpdateFlag" : "14062020_48"
         },
         {
             "featureName": "Contact Us",
-            "featureIcon": "https://raw.githubusercontent.com/danish-p/TRMotors/master/Home/mocktestIcon.jpg",
+            "featureIcon": "https://raw.githubusercontent.com/danish-p/TRMotors/master/Home/contactIcon.jpg",
             "featureVisibility": "yes",
             "updatedVersion":"8",
             "showUpdateFlag" : "14062020_48"
