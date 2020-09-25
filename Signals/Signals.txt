@@ -1,1 +1,30 @@
 
+{
+    "Signals": [
+        {
+            "image":"https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/stop.jpg",
+            "Etitle":"Stop",
+            "Mtitle":""
+        },
+         {
+            "image":"https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/giveway.jpg",
+            "Etitle":"Give way",
+            "Mtitle":""
+        },
+         {
+            "image":"https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/nouturn.jpg",
+            "Etitle":"No U-Turn",
+            "Mtitle":""
+        },
+         {
+            "image":"https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/onewayroad.jpg",
+            "Etitle":"One way road",
+            "Mtitle":""
+        },
+         {
+            "image":"https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/turnleft.jpg",
+            "Etitle":"Turn left",
+            "Mtitle":""
+        }
+    ]
+}
