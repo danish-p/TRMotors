@@ -1,104 +1,104 @@
 {
     "Course 1": [
         {
-            "question": "Question 1*",
+            "question": "What to do When people are waiting for a pedestrian(A person is walking) to cross the road?*",
             "image" : "null",
-            "optionA": "Hello 1",
-            "optionB": "Bye 1",
-            "optionC": "Both A&B",
-            "optionD": "null",
-            "answer": "optionA",
-            "feedback": "Here is feedback"
-        },
-        {
-            "question": "Question 2*",
-            "image" : "https://raw.githubusercontent.com/danish-p/TRMotors/master/Home/signalIcon.jpg",
-            "optionA": "Hello 2",
-            "optionB": "Bye 2",
-            "optionC": "Both A&B",
-            "optionD": "null",
-            "answer": "optionA",
-            "feedback": "Here is feedback"
-        },
-        {
-            "question": "Question 3*",
-            "image" : "null",
-            "optionA": "Hello 3",
-            "optionB": "Bye 3",
-            "optionC": "Both A&B",
-            "optionD": "null",
-            "answer": "optionA",
-            "feedback": "Here is feedback"
-        },
-        {
-            "question": "Question 4*",
-            "image" : "https://raw.githubusercontent.com/danish-p/TRMotors/master/Home/signalIcon.jpg",
-            "optionA": "Hello 4",
-            "optionB": "Bye 4",
-            "optionC": "Both A&B",
-            "optionD": "null",
-            "answer": "optionA",
-            "feedback": "Here is feedback"
-        },
-        {
-            "question": "Question 5*",
-            "image" : "null",
-            "optionA": "Hello 5",
-            "optionB": "Bye 5",
-            "optionC": "Both A&B",
-            "optionD": "null",
-            "answer": "optionA",
-            "feedback": "Here is feedback"
-        },
-        {
-            "question": "Question 6*",
-            "image" : "null",
-            "optionA": "Hello 6",
-            "optionB": "Bye 6",
-            "optionC": "Both A&B",
-            "optionD": "null",
-            "answer": "optionA",
-            "feedback": "Here is feedback"
-        },
-        {
-            "question": "Question 7*",
-            "image" : "null",
-            "optionA": "Hello 7",
-            "optionB": "Bye 7",
-            "optionC": "Both A&B",
-            "optionD": "null",
-            "answer": "optionC",
-            "feedback": "Here is feedback"
-        },
-        {
-            "question": "Question 8*",
-            "image" : "null",
-            "optionA": "Hello 8",
-            "optionB": "Bye 8",
+            "optionA": "Play horn of vehicle & then pass",
+            "optionB": "Stop the vehicle and wait for the pedestrian to cross the road before proceeding",
             "optionC": "Both A&B",
             "optionD": "null",
             "answer": "optionB",
-            "feedback": "Here is feedback"
+            "feedback": "We should wait for sometime so that pedestrain will cross the road safely"
         },
         {
-            "question": "Question 9*",
+            "question": "What to do Near a narrow bridge, when the oncoming vehicle is about to enter the bridge?*",
             "image" : "null",
-            "optionA": "Hello 9",
-            "optionB": "Bye 9",
+            "optionA": "Wait for the vehicle in front to cross the bridge and then proceed",
+            "optionB": "Start the head lights of vehicle and the proceed",
             "optionC": "Both A&B",
             "optionD": "null",
-            "answer": "optionC",
-            "feedback": "Here is feedback"
+            "answer": "optionA",
+            "feedback": "We should wait until vechicle passes"
         },
         {
-            "question": "Question 10*",
+            "question": "What to do If a person is injured in a vehicle accident?*",
             "image" : "null",
-            "optionA": "Hello 10",
-            "optionB": "Bye 10",
+            "optionA": "Necessary efforts should be made to provide medical facilities to the injured",
+            "optionB": "You should focus on your driving and left it as it is!",
+            "optionC": "Call Police",
+            "optionD": "Call Ambulance",
+            "answer": "optionA",
+            "feedback": "Need to do whatever efforts required to provide immediate medical facilities to the injured."
+        },
+        {
+            "question": "Precautions need to do before driver crossing unmanned railway crossing?*",
+            "image" : "null",
+            "optionA": "Keep driving",
+            "optionB": "Play horn sound & keep driving",
+            "optionC": "Stop the vehicle on the left side of the road and make sure that the train is not coming.",
+            "optionD": "Both A&B",
+            "answer": "optionC",
+            "feedback": "Need to check whether train is there or not"
+        },
+        {
+            "question": "When a driver can overtake?*",
+            "image" : "null",
+            "optionA": "When the driver of the vehicle in front is signaling to overtake",
+            "optionB": "At any time",
+            "optionC": "When driver see the opportunity",
+            "optionD": "null",
+            "answer": "optionA",
+            "feedback": ""
+        },
+        {
+            "question": "What does this sign indicates?*",
+            "image" : "https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/stop.jpg",
+            "optionA": "Stop",
+            "optionB": "Don't Stop",
+            "optionC": "Park Here",
+            "optionD": "null",
+            "answer": "optionA",
+            "feedback": ""
+        },
+        {
+            "question": "What does this sign indicates?*",
+            "image" : "https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/giveway.jpg",
+            "optionA": "Give Way",
+            "optionB": "3 Ways Road",
+            "optionC": "null",
+            "optionD": "null",
+            "answer": "optionA",
+            "feedback": ""
+        },
+        {
+            "question": "What does this sign indicates?*",
+            "image" : "https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/nouturn.jpg",
+            "optionA": "No Road",
+            "optionB": "No U-Turn",
             "optionC": "Both A&B",
             "optionD": "null",
             "answer": "optionB",
-            "feedback": "Here is feedback"
+            "feedback": ""
+        },
+        {
+            "question": "What does this sign indicates?*",
+            "image" : "https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/onewayroad.jpg",
+            "optionA": "No road for vehicle",
+            "optionB": "One way road",
+            "optionC": "None of Above",
+            "optionD": "null",
+            "answer": "optionB",
+            "feedback": ""
+        },
+        {
+            "question": "What does this sign indicates?*",
+            "image" : "https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/turnleft.jpg",
+            "optionA": "Turn Left",
+            "optionB": "Don't Turn Left",
+            "optionC": "Turn Right",
+            "optionD": "Both B&C",
+            "answer": "optionA",
+            "feedback": ""
         }
     ]
 }
