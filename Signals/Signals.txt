@@ -4,27 +4,27 @@
         {
             "image":"https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/stop.jpg",
             "Etitle":"Stop",
-            "Mtitle":""
+            "Mtitle":"थांबा"
         },
          {
             "image":"https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/giveway.jpg",
             "Etitle":"Give way",
-            "Mtitle":""
+            "Mtitle":"मार्ग द्या"
         },
          {
             "image":"https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/nouturn.jpg",
             "Etitle":"No U-Turn",
-            "Mtitle":""
+            "Mtitle":"यू-टर्न नाही"
         },
          {
             "image":"https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/onewayroad.jpg",
             "Etitle":"One way road",
-            "Mtitle":""
+            "Mtitle":"एकेरी रस्ता"
         },
          {
             "image":"https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/turnleft.jpg",
             "Etitle":"Turn left",
-            "Mtitle":""
+            "Mtitle":"डावीकडे वळा"
         }
     ]
 }
