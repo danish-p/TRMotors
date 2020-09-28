@@ -1,104 +1,104 @@
 {
     "Course 2": [
         {
-            "question": "What is Your Name?*",
+            "question": "What to do When people are waiting for a pedestrian(A person is walking) to cross the road?*",
             "image" : "null",
-            "optionA": "Danish",
-            "optionB": "TR",
-            "optionC": "Both A & B",
+            "optionA": "Play horn of vehicle & then pass",
+            "optionB": "Stop the vehicle and wait for the pedestrian to cross the road before proceeding",
+            "optionC": "Both A&B",
             "optionD": "null",
-            "answer": "optionA",
-            "feedback": "He is a Developer"
+            "answer": "optionB",
+            "feedback": "We should wait for sometime so that pedestrain will cross the road safely"
         },
-         {
-            "question": "What is Your Name?*",
+        {
+            "question": "What to do Near a narrow bridge, when the oncoming vehicle is about to enter the bridge?*",
             "image" : "null",
-            "optionA": "Danish",
-            "optionB": "TR",
-            "optionC": "Both A & B",
+            "optionA": "Wait for the vehicle in front to cross the bridge and then proceed",
+            "optionB": "Start the head lights of vehicle and the proceed",
+            "optionC": "Both A&B",
             "optionD": "null",
             "answer": "optionA",
-            "feedback": "He is a Developer"
+            "feedback": "We should wait until vechicle passes"
         },
-         {
-            "question": "What is Your Name?*",
+        {
+            "question": "What to do If a person is injured in a vehicle accident?*",
             "image" : "null",
-            "optionA": "Danish",
-            "optionB": "TR",
-            "optionC": "Both A & B",
-            "optionD": "null",
+            "optionA": "Necessary efforts should be made to provide medical facilities to the injured",
+            "optionB": "You should focus on your driving and left it as it is!",
+            "optionC": "Call Police",
+            "optionD": "Call Ambulance",
             "answer": "optionA",
-            "feedback": "He is a Developer"
+            "feedback": "Need to do whatever efforts required to provide immediate medical facilities to the injured."
         },
-         {
-            "question": "What is Your Name?*",
+        {
+            "question": "Precautions need to do before driver crossing unmanned railway crossing?*",
             "image" : "null",
-            "optionA": "Danish",
-            "optionB": "TR",
-            "optionC": "Both A & B",
-            "optionD": "null",
-            "answer": "optionA",
-            "feedback": "He is a Developer"
+            "optionA": "Keep driving",
+            "optionB": "Play horn sound & keep driving",
+            "optionC": "Stop the vehicle on the left side of the road and make sure that the train is not coming.",
+            "optionD": "Both A&B",
+            "answer": "optionC",
+            "feedback": "Need to check whether train is there or not"
         },
-         {
-            "question": "What is Your Name?*",
+        {
+            "question": "When a driver can overtake?*",
             "image" : "null",
-            "optionA": "Danish",
-            "optionB": "TR",
-            "optionC": "Both A & B",
+            "optionA": "When the driver of the vehicle in front is signaling to overtake",
+            "optionB": "At any time",
+            "optionC": "When driver see the opportunity",
             "optionD": "null",
             "answer": "optionA",
-            "feedback": "He is a Developer"
+            "feedback": ""
         },
-         {
-            "question": "What is Your Name?*",
-            "image" : "null",
-            "optionA": "Danish",
-            "optionB": "TR",
-            "optionC": "Both A & B",
+        {
+            "question": "What does this sign indicates?*",
+            "image" : "https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/stop.jpg",
+            "optionA": "Stop",
+            "optionB": "Don't Stop",
+            "optionC": "Park Here",
             "optionD": "null",
             "answer": "optionA",
-            "feedback": "He is a Developer"
+            "feedback": ""
         },
-         {
-            "question": "What is Your Name?*",
-            "image" : "null",
-            "optionA": "Danish",
-            "optionB": "TR",
-            "optionC": "Both A & B",
+        {
+            "question": "What does this sign indicates?*",
+            "image" : "https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/giveway.jpg",
+            "optionA": "Give Way",
+            "optionB": "3 Ways Road",
+            "optionC": "null",
             "optionD": "null",
             "answer": "optionA",
-            "feedback": "He is a Developer"
+            "feedback": ""
         },
-         {
-            "question": "What is Your Name?*",
-            "image" : "null",
-            "optionA": "Danish",
-            "optionB": "TR",
-            "optionC": "Both A & B",
+        {
+            "question": "What does this sign indicates?*",
+            "image" : "https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/nouturn.jpg",
+            "optionA": "No Road",
+            "optionB": "No U-Turn",
+            "optionC": "Both A&B",
             "optionD": "null",
-            "answer": "optionA",
-            "feedback": "He is a Developer"
+            "answer": "optionB",
+            "feedback": ""
         },
-         {
-            "question": "What is Your Name?*",
-            "image" : "null",
-            "optionA": "Danish",
-            "optionB": "TR",
-            "optionC": "Both A & B",
+        {
+            "question": "What does this sign indicates?*",
+            "image" : "https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/onewayroad.jpg",
+            "optionA": "No road for vehicle",
+            "optionB": "One way road",
+            "optionC": "None of Above",
             "optionD": "null",
-            "answer": "optionA",
-            "feedback": "He is a Developer"
+            "answer": "optionB",
+            "feedback": ""
         },
-         {
-            "question": "What is Your Name?*",
-            "image" : "null",
-            "optionA": "Danish",
-            "optionB": "TR",
-            "optionC": "Both A & B",
-            "optionD": "null",
+        {
+            "question": "What does this sign indicates?*",
+            "image" : "https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/turnleft.jpg",
+            "optionA": "Turn Left",
+            "optionB": "Don't Turn Left",
+            "optionC": "Turn Right",
+            "optionD": "Both B&C",
             "answer": "optionA",
-            "feedback": "He is a Developer"
+            "feedback": ""
         }
     ]
 }
