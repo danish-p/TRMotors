@@ -1,1 +1,29 @@
-
+{
+    "AnimatedSignals": [
+        {
+            "image":"https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/stop.jpg",
+            "Etitle":"Stop",
+            "Mtitle":"थांबा"
+        },
+         {
+            "image":"https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/giveway.jpg",
+            "Etitle":"Give way",
+            "Mtitle":"मार्ग द्या"
+        },
+         {
+            "image":"https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/nouturn.jpg",
+            "Etitle":"No U-Turn",
+            "Mtitle":"यू-टर्न नाही"
+        },
+         {
+            "image":"https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/onewayroad.jpg",
+            "Etitle":"One way road",
+            "Mtitle":"एकेरी रस्ता"
+        },
+         {
+            "image":"https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/traffic-lights-min.gif",
+            "Etitle":"Turn left",
+            "Mtitle":"डावीकडे वळा"
+        }
+    ]
+}
