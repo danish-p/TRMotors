@@ -8,6 +8,13 @@
             "showUpdateFlag" : "14062020_10"
         },
         {
+            "featureName": "Animated Signals",
+            "featureIcon": "https://raw.githubusercontent.com/danish-p/TRMotors/master/Home/traffic-lights-min.gif",
+            "featureVisibility": "yes",
+            "updatedVersion":"8",
+            "showUpdateFlag" : "14062020_10"
+        },
+        {
             "featureName": "Mock Test",
             "featureIcon": "https://raw.githubusercontent.com/danish-p/TRMotors/master/Home/mocktestIcon.jpg",
             "featureVisibility": "yes",
