@@ -1,27 +1,42 @@
 {
     "AnimatedSignals": [
         {
-            "image":"https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/stop.jpg",
-            "Etitle":"Stop",
-            "Mtitle":"थांबा"
+            "image":"https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/stopanimated.gif",
+            "Etitle":"",
+            "Mtitle":""
         },
          {
-            "image":"https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/giveway.jpg",
+            "image":"https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/stopanimated2.gif",
             "Etitle":"Give way",
             "Mtitle":"मार्ग द्या"
         },
          {
-            "image":"https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/nouturn.jpg",
+            "image":"https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/givewayanimated.gif",
             "Etitle":"No U-Turn",
             "Mtitle":"यू-टर्न नाही"
         },
          {
-            "image":"https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/onewayroad.jpg",
+            "image":"https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/givewayanimated1.gif",
             "Etitle":"One way road",
             "Mtitle":"एकेरी रस्ता"
         },
          {
-            "image":"https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/traffic-lights-min.gif",
+            "image":"https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/givewayanimated2.gif",
+            "Etitle":"Turn left",
+            "Mtitle":"डावीकडे वळा"
+        },
+         {
+            "image":"https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/rounds1.gif",
+            "Etitle":"Turn left",
+            "Mtitle":"डावीकडे वळा"
+        },
+        {
+            "image":"https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/rounds2.gif",
+            "Etitle":"Turn left",
+            "Mtitle":"डावीकडे वळा"
+        },
+        {
+            "image":"https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/rounds3.gif",
             "Etitle":"Turn left",
             "Mtitle":"डावीकडे वळा"
         }
