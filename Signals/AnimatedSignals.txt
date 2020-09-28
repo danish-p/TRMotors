@@ -21,11 +21,6 @@
             "Mtitle":"एकेरी रस्ता"
         },
          {
-            "image":"https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/givewayanimated2.gif",
-            "Etitle":"Turn left",
-            "Mtitle":"डावीकडे वळा"
-        },
-         {
             "image":"https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/rounds1.gif",
             "Etitle":"Turn left",
             "Mtitle":"डावीकडे वळा"
