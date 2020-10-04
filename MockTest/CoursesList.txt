@@ -2,15 +2,21 @@
     "CoursesList": [
         {
             "courseName": "Course 1",
-            "titleEnglish": "About Traffic Visual Signs",
-            "titleMarathi": "ट्रॅफिक व्हिज्युअल चिन्हे बद्दल",
+            "titleEnglish": "RTO Rules and signs Practice Test Part 1",
+            "titleMarathi": "आरटीओ नियम व सराव चाचणी चाचणी भाग 1",
             "link": "course1.txt"
         },
         {
             "courseName": "Course 2",
-            "titleEnglish": "Traffic Rules",
-            "titleMarathi": "रहदारी नियमांबद्दल",
+             "titleEnglish": "RTO Rules and signs Practice Test Part 2",
+            "titleMarathi": "आरटीओ नियम व सराव चाचणी चाचणी भाग 2",
             "link": "course2.txt"
+        },
+        {
+            "courseName": "Course 3",
+             "titleEnglish": "RTO Rules and signs Practice Test Part 3",
+            "titleMarathi": "आरटीओ नियम व सराव चाचणी चाचणी भाग 3",
+            "link": "course3.txt"
         }
     ]
 }
