@@ -13,7 +13,7 @@
             "moptionC": "आपला वेग कमी करा आणि सतर्क रहा",
             "moptionD": "null",
             "mfeedback": " ",
-            "image" : "symbol 1",
+            "image" : "null",
             "answer": "optionC"
         },
         {
