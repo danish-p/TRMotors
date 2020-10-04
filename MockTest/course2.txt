@@ -13,7 +13,7 @@
             "moptionC": "नो-यूटर्न",
             "moptionD": "null",
             "mfeedback": " ",
-            "image" : "symbol 1",
+            "image" : "https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/symbol%1.png",
             "answer": "optionC"
         },
         {
@@ -45,7 +45,7 @@
             "moptionC": "फ्रीवे नाही",
             "moptionD": "null",
             "mfeedback": " ",
-            "image" : "symbol2",
+            "image" : "https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/symbol2.png",
             "answer": "optionB"
         },
         {
@@ -61,7 +61,7 @@
             "moptionC": "उजवीकडे वळण नाही",
             "moptionD": "null",
             "mfeedback": " ",
-            "image" : "symbol 3",
+            "image" : "https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/symbol%203.png",
             "answer": "optionB"
         },
         {
