@@ -17,6 +17,12 @@
              "titleEnglish": "RTO Rules and signs Practice Test Part 3",
             "titleMarathi": "आरटीओ नियम व सराव चाचणी चाचणी भाग 3",
             "link": "course3.txt"
+        },
+        {
+            "courseName": "Course 4",
+             "titleEnglish": "RTO Rules and signs Practice Test Part 4",
+            "titleMarathi": "आरटीओ नियम व सराव चाचणी चाचणी भाग 4",
+            "link": "course4.txt"
         }
     ]
 }
