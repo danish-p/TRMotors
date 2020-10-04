@@ -13,7 +13,7 @@
             "moptionC": "नो-यूटर्न",
             "moptionD": "null",
             "mfeedback": " ",
-            "image" : "https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/symbol%1.png",
+            "image" : "https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/symbol 1.png",
             "answer": "optionC"
         },
         {
