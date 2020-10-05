@@ -29,7 +29,7 @@
             "moptionC": "रस्ता बंद",
             "moptionD": "पार्किंग नाही",
             "mfeedback": " ",
-            "image" : " pic01",
+            "image" : "https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/pic01.png",
             "answer": "optionD"
         },
         {
@@ -45,7 +45,7 @@
             "moptionC": "वेग मर्यादा संपेल",
             "moptionD": "वाहनांना परवानगी नाही",
             "mfeedback": " ",
-            "image" : " pic02",
+            "image" : "https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/pic02.png",
             "answer": "optionB"
         },
         {
@@ -77,7 +77,7 @@
             "moptionC": "पुढे अरुंद रस्ता",
             "moptionD": "पुढे रस्ता बंद झाला",
             "mfeedback": " ",
-            "image" : " pic03",
+            "image" : "https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/pic03.png",
             "answer": "optionA"
         },
         {
@@ -93,7 +93,7 @@
             "moptionC": "दोन्ही बाजूंच्या रस्ते पुढे",
             "moptionD": "रस्ता पुढे संपतो",
             "mfeedback": " ",
-            "image" :  "pic04",
+            "image" :  "https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/pic04.png",
             "answer": "optionA"
         },
         {
