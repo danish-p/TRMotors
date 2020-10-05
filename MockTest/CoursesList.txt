@@ -34,7 +34,7 @@
             "courseName": "Course 6",
              "titleEnglish": "RTO Rules and signs Practice Test Part 6",
             "titleMarathi": "आरटीओ नियम व सराव चाचणी चाचणी भाग 6",
-            "link": "course5.txt"
+            "link": "course6.txt"
         }
     ]
 }
