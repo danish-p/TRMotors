@@ -52,7 +52,7 @@
             "Mtitle":"नो-यूटर्न"
         },
         {
-            "image":"https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/symbol 2.png",
+            "image":"https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/symbol 2.jpg",
             "Etitle":"No right turn",
             "Mtitle":"उजवीकडे वळण नाही"
         },
