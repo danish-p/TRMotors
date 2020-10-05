@@ -26,7 +26,6 @@
             "featureIcon": "https://raw.githubusercontent.com/danish-p/TRMotors/master/Home/servicesIcon.jpg",
             "featureVisibility": "yes",
             "updatedVersion":"8",
-            "form":"https://docs.google.com/forms/d/e/1FAIpQLScpOOudhKCF4kIhIl5PA_oxWbH3PjVOJ7C527RPZ5YRUt5Hnw/viewform?usp=pp_url",
             "showUpdateFlag" : "14062020_48"
         },
         {
@@ -34,6 +33,7 @@
             "featureIcon": "https://raw.githubusercontent.com/danish-p/TRMotors/master/Home/admissionIcon.jpg",
             "featureVisibility": "yes",
             "updatedVersion":"8",
+            "form":"https://docs.google.com/forms/d/e/1FAIpQLScpOOudhKCF4kIhIl5PA_oxWbH3PjVOJ7C527RPZ5YRUt5Hnw/viewform?usp=pp_url",
             "showUpdateFlag" : "14062020_48"
         },
         {
