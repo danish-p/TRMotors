@@ -22,9 +22,89 @@
             "Mtitle":"एकेरी रस्ता"
         },
          {
-            "image":"https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/traffic-lights-min.gif",
+            "image":"https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals//turnleft.jpg",
             "Etitle":"Turn left",
             "Mtitle":"डावीकडे वळा"
+        },
+         {
+            "image":"https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/s1.png",
+            "Etitle":"Hospital",
+            "Mtitle":"रुग्णालय"
+        },
+         {
+            "image":"https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/s2.png",
+            "Etitle":"Major road ahead",
+            "Mtitle":"पुढे मोठा रस्ताा"
+        },
+        {
+            "image":"https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/s3.png",
+            "Etitle":"Pedestrians prohibited",
+            "Mtitle":"पादचारी निषिद्ध"
+        },
+        {
+            "image":"https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/s4.png",
+            "Etitle":"Side road left",
+            "Mtitle":"बाजूचा रस्ता"
+        },
+        {
+            "image":"https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/symbol 1.png",
+            "Etitle":"no-uturn",
+            "Mtitle":"नो-यूटर्न"
+        },
+        {
+            "image":"https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/symbol 2.png",
+            "Etitle":"No right turn",
+            "Mtitle":"उजवीकडे वळण नाही"
+        },
+        {
+            "image":"https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/symbol 3.png",
+            "Etitle":"No parking",
+            "Mtitle":"पार्किंग नाही"
+        },
+        {
+            "image":"https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/sign01.png",
+            "Etitle":"Cycle crossing",
+            "Mtitle":"सायकल क्रॉसिंग"
+        },
+        {
+            "image":"https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/sign02.png",
+            "Etitle":"Left reverse bend",
+            "Mtitle":"डावे रिव्हर्स बेंड"
+        },
+        {
+            "image":"https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/pic04.png",
+            "Etitle":"Narrow road ahead",
+            "Mtitle":"पुढे अरुंद रस्ता"
+        },
+        {
+            "image":"https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/a1.png",
+            "Etitle":"Both ways prohibited",
+            "Mtitle":"दोन्ही मार्गांवर प्रतिबंधित"
+        },
+        {
+            "image":"https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/a2.png",
+            "Etitle":"Compulsory ahead or turn left",
+            "Mtitle":"अनिवार्य पुढे किंवा डावीकडे वळा"
+        },
+        {
+            "image":"https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/a3.png",
+            "Etitle":"Entry for vehicles having height not exceeding 3.5 meters",
+            "Mtitle":"उंची 3.5 मीटरपेक्षा जास्त नसलेल्या वाहनांसाठी प्रवेश"
+        },
+        {
+            "image":"https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/a4.png",
+            "Etitle":"Cycles prohibited",
+            "Mtitle":"सायकल निषिद्ध"
+        },
+        {
+            "image":"https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/a5.png",
+            "Etitle":"Left hair pin bend",
+            "Mtitle":"लेफ्ट हेअर पिन बेंड"
+        },
+        {
+            "image":"https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/a6.png",
+            "Etitle":"End of speed restriction",
+            "Mtitle":"वेग निर्बंधाचा अंत"
         }
     ]
 }
