@@ -61,7 +61,7 @@
             "moptionC": "सायकलसाठी प्रवेश नाही",
             "moptionD": "यापैकी काहीही नाही",
             "mfeedback": " ",
-            "image" : " sign01",
+            "image" : "https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/sign01.png",
             "answer": "optionA"
         },
         {
@@ -109,7 +109,7 @@
             "moptionC": "डावीकडे वळा आणि पुढे जा",
             "moptionD": "झिक झॅक रोड पुढे",
             "mfeedback": " ",
-            "image" : " sign02",
+            "image" : "https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/sign02.png",
             "answer": "optionB"
         },
          {
@@ -125,7 +125,7 @@
             "moptionC": "वेग वाढवा",
             "moptionD": "पुढे ट्रॅफिक बेट",
             "mfeedback": " ",
-            "image" : " sign03",
+            "image" : "https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/sign03.png",
             "answer": "optionA"
         },
         {
