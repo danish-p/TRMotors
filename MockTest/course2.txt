@@ -45,7 +45,7 @@
             "moptionC": "फ्रीवे नाही",
             "moptionD": "null",
             "mfeedback": " ",
-            "image" : "https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/symbol 2.png",
+            "image" : "https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/symbol 2.jpg",
             "answer": "optionB"
         },
         {
