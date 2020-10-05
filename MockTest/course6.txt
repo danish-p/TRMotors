@@ -13,7 +13,7 @@
             "moptionC": "धोका पुढे",
             "moptionD": "यापैकी काहीही नाही",
             "mfeedback": "",
-            "image" : "a1",
+            "image" : "https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/a1.png",
             "answer": "optionB"
         },
         {
@@ -29,7 +29,7 @@
             "moptionC": "पुढचा रस्ता",
             "moptionD": "उजवीकडे वळण निषिद्ध",
             "mfeedback": " ",
-            "image" : "a2",
+            "image" : "https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/a2.png",
             "answer": "optionB"
         },
         {
@@ -61,7 +61,7 @@
             "moptionC": "उंची 3.5 मीटरपेक्षा जास्त नसलेल्या वाहनांसाठी प्रवेश",
             "moptionD": "यापैकी काहीही नाही",
             "mfeedback": " ",
-            "image" : "a3",
+            "image" : "https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/a3.png",
             "answer": "optionC"
         },
         {
@@ -125,7 +125,7 @@
             "moptionC": "सायकल निषिद्ध",
             "moptionD": "यापैकी काहीही नाही",
             "mfeedback": " ",
-            "image" : "a4",
+            "image" : "https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/a4.png",
             "answer": "optionC"
         },
         {
@@ -141,7 +141,7 @@
             "moptionC": "डावीकडे ठेवा",
             "moptionD": "यापैकी काहीही नाही",
             "mfeedback": " ",
-            "image" : "a5",
+            "image" : "https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/a5.png",
             "answer": "optionB"
         },
         {
@@ -157,7 +157,7 @@
             "moptionC": "थांबत नाही",
             "moptionD": "वेग निर्बंधाचा अंत",
             "mfeedback": " ",
-            "image" : "a6",
+            "image" : "https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/a6.png",
             "answer": "optionD"
         }
     ]
