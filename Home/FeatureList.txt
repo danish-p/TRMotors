@@ -29,6 +29,13 @@
             "showUpdateFlag" : "14062020_48"
         },
         {
+            "featureName": "New Addmission",
+            "featureIcon": "https://raw.githubusercontent.com/danish-p/TRMotors/master/Home/admissionIcon.jpg",
+            "featureVisibility": "yes",
+            "updatedVersion":"8",
+            "showUpdateFlag" : "14062020_48"
+        },
+        {
             "featureName": "Contact Us",
             "featureIcon": "https://raw.githubusercontent.com/danish-p/TRMotors/master/Home/contactIcon.jpg",
             "featureVisibility": "yes",
