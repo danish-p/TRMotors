@@ -105,6 +105,26 @@
             "image":"https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/a6.png",
             "Etitle":"End of speed restriction",
             "Mtitle":"वेग निर्बंधाचा अंत"
+        },
+        {
+            "image":"https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/go-straight-ahead.jpg",
+            "Etitle":"Go straight ahead",
+            "Mtitle":"सरळ पुढे जा"
+        },
+        {
+            "image":"https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/no-go-straight-ahead.jpg",
+            "Etitle":"Access closed",
+            "Mtitle":"प्रवेश बंद"
+        },
+        {
+            "image":"https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/hornok.jpg",
+            "Etitle":"forcible blow the horn",
+            "Mtitle":"जबरदस्तीने हॉर्न वाजवा"
+        },
+        {
+            "image":"https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/nohorn.jpg",
+            "Etitle":"bad to play the horn",
+            "Mtitle":"हॉर्न वाजविणे खराब"
         }
     ]
 }
