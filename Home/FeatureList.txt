@@ -8,7 +8,7 @@
             "showUpdateFlag" : "14062020_10"
         },
         {
-            "featureName": "Animated",
+            "featureName": "More Signals",
             "featureIcon": "https://raw.githubusercontent.com/danish-p/TRMotors/master/Home/traffic-lights-min.gif",
             "featureVisibility": "yes",
             "updatedVersion":"8",
@@ -29,7 +29,7 @@
             "showUpdateFlag" : "14062020_48"
         },
         {
-            "featureName": "New Addmission",
+            "featureName": "Addmission",
             "featureIcon": "https://raw.githubusercontent.com/danish-p/TRMotors/master/Home/admissionIcon.jpg",
             "featureVisibility": "yes",
             "updatedVersion":"8",
