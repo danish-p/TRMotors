@@ -125,6 +125,71 @@
             "image":"https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/nohorn.jpg",
             "Etitle":"bad to play the horn",
             "Mtitle":"हॉर्न वाजविणे खराब"
+        },
+        {
+            "image":"https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/left reverse bend.png",
+            "Etitle":"Right hair pin bend",
+            "Mtitle":""
+        },
+        {
+            "image":"https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/left reverse bend.jpg",
+            "Etitle":"left reverse bend",
+            "Mtitle":""
+        },
+        {
+            "image":"https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/rigth reverse bend.jpg",
+            "Etitle":"rigth reverse bend",
+            "Mtitle":""
+        },
+        {
+            "image":"https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/left hair pin bend.jpg",
+            "Etitle":"left hair pin bend",
+            "Mtitle":""
+        },
+        {
+            "image":"https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/left hand curve.png",
+            "Etitle":"left hand curve",
+            "Mtitle":""
+        },
+        {
+            "image":"https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/Right hand curve.png",
+            "Etitle":"Right hand curve",
+            "Mtitle":""
+        },
+        {
+            "image":"https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/Compulsory keep left.jpg",
+            "Etitle":"Compulsory keep left",
+            "Mtitle":""
+        },
+        {
+            "image":"https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/load limit.jpg",
+            "Etitle":"load limit",
+            "Mtitle":""
+        },
+        {
+            "image":"https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/Overtaking prohibited.jpg",
+            "Etitle":"Overtaking prohibited",
+            "Mtitle":""
+        },
+        {
+            "image":"https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/Pedestrians prohibited.jpg",
+            "Etitle":"Pedestrians prohibited",
+            "Mtitle":""
+        },
+        {
+            "image":"https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/Bullock cart and Handcart prohibited.jpg",
+            "Etitle":"Bullock cart and Handcart prohibited",
+            "Mtitle":""
+        },
+        {
+            "image":"https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/Truck prohibited.jpg",
+            "Etitle":"Truck prohibited",
+            "Mtitle":""
+        },
+        {
+            "image":"https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/All motor vehicles prohibited.jpg",
+            "Etitle":"All motor vehicles prohibited",
+            "Mtitle":""
         }
     ]
 }
