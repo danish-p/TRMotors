@@ -127,7 +127,7 @@
             "Mtitle":"हॉर्न वाजविणे खराब"
         },
         {
-            "image":"https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/left reverse bend.png",
+            "image":"https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/Right%20hair%20pin%20bend.png",
             "Etitle":"Right hair pin bend",
             "Mtitle":"उजवा केस पिन वाकणे"
         },
