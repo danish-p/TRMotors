@@ -129,67 +129,62 @@
         {
             "image":"https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/left reverse bend.png",
             "Etitle":"Right hair pin bend",
-            "Mtitle":""
+            "Mtitle":"उजवा केस पिन वाकणे"
         },
         {
             "image":"https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/left reverse bend.jpg",
             "Etitle":"left reverse bend",
-            "Mtitle":""
+            "Mtitle":"डावा उलट वाकणे"
         },
         {
             "image":"https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/rigth reverse bend.jpg",
             "Etitle":"rigth reverse bend",
-            "Mtitle":""
+            "Mtitle":"कठोर रिव्हर्स बेंड"
         },
         {
             "image":"https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/left hair pin bend.jpg",
             "Etitle":"left hair pin bend",
-            "Mtitle":""
+            "Mtitle":"डावा केस पिन वाकणे"
         },
         {
             "image":"https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/left hand curve.png",
             "Etitle":"left hand curve",
-            "Mtitle":""
+            "Mtitle":"डावा हात वक्र"
         },
         {
             "image":"https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/Right hand curve.png",
             "Etitle":"Right hand curve",
-            "Mtitle":""
+            "Mtitle":"उजवा हात वक्र"
         },
         {
             "image":"https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/Compulsory keep left.jpg",
             "Etitle":"Compulsory keep left",
-            "Mtitle":""
+            "Mtitle":"अनिवार्य डावीकडे ठेवा"
         },
         {
             "image":"https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/load limit.jpg",
             "Etitle":"load limit",
-            "Mtitle":""
+            "Mtitle":"भार मर्यादा"
         },
         {
             "image":"https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/Overtaking prohibited.jpg",
             "Etitle":"Overtaking prohibited",
-            "Mtitle":""
-        },
-        {
-            "image":"https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/Pedestrians prohibited.jpg",
-            "Etitle":"Pedestrians prohibited",
-            "Mtitle":""
+            "Mtitle":"ओव्हरटेकिंग प्रतिबंधित"
         },
         {
             "image":"https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/Bullock cart and Handcart prohibited.jpg",
             "Etitle":"Bullock cart and Handcart prohibited",
-            "Mtitle":""
+            "Mtitle":"बैलगाडी आणि हँडकार्ट प्रतिबंधित आहे"
         },
         {
             "image":"https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/Truck prohibited.jpg",
             "Etitle":"Truck prohibited",
-            "Mtitle":""
+            "Mtitle":"ट्रक प्रतिबंधित आहे"
         },
         {
             "image":"https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/All motor vehicles prohibited.jpg",
             "Etitle":"All motor vehicles prohibited",
-            "Mtitle":""
+            "Mtitle":"सर्व मोटर वाहनांना मनाई आहे"
         }
     ]
 }
