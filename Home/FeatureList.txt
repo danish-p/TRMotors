@@ -18,7 +18,7 @@
             "featureName": "Mock Test",
             "featureIcon": "https://raw.githubusercontent.com/danish-p/TRMotors/master/Home/mocktestIcon.jpg",
             "featureVisibility": "yes",
-            "updatedVersion":"8",
+            "updatedVersion":"9",
             "showUpdateFlag" : "14062020_48"
         },
         {
