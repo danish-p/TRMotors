@@ -2,8 +2,8 @@
     "AnimatedSignals": [
         {
             "image":"https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/stopanimated.gif",
-            "Etitle":"",
-            "Mtitle":""
+            "Etitle":"Stop",
+            "Mtitle":"थांबा"
         },
          {
             "image":"https://raw.githubusercontent.com/danish-p/TRMotors/master/Signals/stopanimated2.gif",
