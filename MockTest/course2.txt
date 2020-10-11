@@ -135,7 +135,7 @@
             "optionC": "null",
             "optionD": "null",
             "feedback": "",
-            "mquestion": "वाहनांचे हॉर्न वाजवण्यास मनाई आहेः??*",
+            "mquestion": "वाहनांचे हॉर्न वाजवण्यास मनाई आहेः*",
             "moptionA": "मंदिरे, चर्च आणि मशिदी",
             "moptionB": "वैद्यकीय संस्था, न्यायालये",
             "moptionC": "null",
