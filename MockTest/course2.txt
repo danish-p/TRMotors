@@ -83,7 +83,7 @@
         {
             "question": "The driver of a vehicle must drive on the?*",
             "optionA": "Road’s Left side",
-            "optionB": "Road’s Left side",
+            "optionB": "Road’s Right side",
             "optionC": "in the middle",
             "optionD": "null",
             "feedback": " ",
